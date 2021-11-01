@@ -1,1 +1,1 @@
-<p>Hello GIT</p>
+console.log("Hello GIT")
